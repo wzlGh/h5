@@ -1,5 +1,3 @@
-/* created by yancey email:1352677433@qq.com*/
-
 $(document).ready(function() {
 	var $oHeader = $('#header');
 	var $oHdorpdown = $('#h-dorpdown');
